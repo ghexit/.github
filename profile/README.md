@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ At GHexit we collect resources on leaving Github to ease the transition away from this website.
+🙋‍♀️ At GHExit we collect resources on leaving Github to ease the transition away from this website.
 
 🌈 Contributing? Yes, please! Let us know anything that has helped you leave the platform!
 
