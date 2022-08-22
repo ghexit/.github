@@ -2,7 +2,7 @@
 
 🙋‍♀️ At GHexit we collect resources on leaving Github to ease the transition away from this website.
 
-🌈 Contribution guidelines - Please let us know anything that has helped you leave the platform!
+🌈 Contributing? Yes, please! Let us know anything that has helped you leave the platform!
 
 👩‍💻 Useful resources
   * [leave](github.com/ghexit/leave) is for people offboarding from Github
